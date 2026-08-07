@@ -1,0 +1,13 @@
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.temp
+
+# Dossier annexe (anciennes versions, audio, captures - non lié au site final)
+Site Lola Galery - Bien-être féminin/
+
+# Fichiers d'édition
+*.bak
+*.swp
